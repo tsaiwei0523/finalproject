@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mood Diary</string>
+    <string name="string_date">%1$d/%2$d/%3$d</string>
+    <string name="left_arrow">\u25C4</string>
+    <string name="right_arrow">\u25BA</string>
+    <string name="recover">\u21BB</string>
+    <string name="cross">\u2717</string>
+    <string name="plus">+</string>
+    <string name="situation">%1$s\n%2$s, %3$s</string>
+</resources>
